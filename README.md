@@ -17,3 +17,4 @@ java DNATest
 | # | Problem | Practices |
 |---|---|---|
 | [01](01-dna) | DNA | junk filtering, `%` count check, `substring` chunks into a `Set` |
+| [02](02-intervals) | Intervals | validating parallel arrays, building an `int[]` with a position counter |
