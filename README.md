@@ -18,3 +18,4 @@ java DNATest
 |---|---|---|
 | [01](01-dna) | DNA | junk filtering, `%` count check, `substring` chunks into a `Set` |
 | [02](02-intervals) | Intervals | validating parallel arrays, building an `int[]` with a position counter |
+| [03](03-readings) | Readings | skip vs throw with `continue`, count-then-fill arrays, reusing a method |
