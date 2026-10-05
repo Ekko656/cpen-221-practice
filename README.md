@@ -20,3 +20,4 @@ java DNATest
 | [02](02-intervals) | Intervals | validating parallel arrays, building an `int[]` with a position counter |
 | [03](03-readings) | Readings | skip vs throw with `continue`, count-then-fill arrays, reusing a method |
 | [04](04-digits) | Digits | digit checks, `c - '0'` conversion, cleaning before chunking |
+| [05](05-votes) | Votes | `&&` for "none of these", early-return guards, `Set<Character>` |
