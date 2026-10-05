@@ -16,3 +16,4 @@ java DNATest
 
 | # | Problem | Practices |
 |---|---|---|
+| [01](01-dna) | DNA | junk filtering, `%` count check, `substring` chunks into a `Set` |
